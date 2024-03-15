@@ -23,7 +23,6 @@
 
 %Watermark
 \RequirePackage{watermark}
-\thiswatermark{\centering \put(112,-550){\includegraphics[scale=0.9]{img/wt.png}} }
 
 \RequirePackage{listings}
 \lstset{%
